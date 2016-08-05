@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module SCIM
   # rails engine
   class Engine < ::Rails::Engine
