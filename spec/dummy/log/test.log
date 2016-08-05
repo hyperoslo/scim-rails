@@ -1,0 +1,625 @@
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.5ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:15:57 +0200
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:15:57 +0200
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5038.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:17:27 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:17:27 +0200
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5047.9ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:17:45 +0200
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:17:45 +0200
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5039.1ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:18:18 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:18:18 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:20:36 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:20:36 +0200
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:21:07 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:21:07 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5035.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:22:18 +0200
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/v1/Users" for 127.0.0.1 at 2016-08-04 15:22:18 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5045.1ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:25:55 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5046.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:27:49 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5044.3ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:28:08 +0200
+Processing by SCIM::UsersController#index as HTML
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5034.2ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:28:33 +0200
+Processing by SCIM::UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5044.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:31:35 +0200
+Processing by SCIM::UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5035.6ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:32:08 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users"
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.6ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5036.4ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:32:48 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[35mUser Load (0.8ms)[0m  SELECT "users".* FROM "users"
+Completed 200 OK in 4ms (Views: 0.2ms | ActiveRecord: 2.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5036.9ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.3ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:33:35 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[35mUser Load (0.8ms)[0m  SELECT "users".* FROM "users"
+Completed 200 OK in 4ms (Views: 0.2ms | ActiveRecord: 2.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (509.3ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5044.5ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:34:13 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[35mUser Load (0.7ms)[0m  SELECT "users".* FROM "users"
+Completed 200 OK in 6ms (Views: 0.3ms | ActiveRecord: 2.8ms)
+  [1m[36m (0.3ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5032.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:36:30.499136"], ["updated_at", "2016-08-04 13:36:30.499136"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:36:30 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 500 Internal Server Error in 4ms (ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5039.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:36:56.790161"], ["updated_at", "2016-08-04 13:36:56.790161"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:36:56 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5039.5ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:38:48.847529"], ["updated_at", "2016-08-04 13:38:48.847529"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:38:48 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 500 Internal Server Error in 2ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5039.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:39:11.114596"], ["updated_at", "2016-08-04 13:39:11.114596"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:39:11 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5044.9ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:39:51.147185"], ["updated_at", "2016-08-04 13:39:51.147185"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:39:51 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5043.2ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:40:15.059095"], ["updated_at", "2016-08-04 13:40:15.059095"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:40:15 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5038.5ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:40:47.334660"], ["updated_at", "2016-08-04 13:40:47.334660"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:40:47 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:41:22.586101"], ["updated_at", "2016-08-04 13:41:22.586101"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:41:22 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5033.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:42:18.857183"], ["updated_at", "2016-08-04 13:42:18.857183"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:42:18 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:42:18 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5042.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:42:45.757009"], ["updated_at", "2016-08-04 13:42:45.757009"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:42:45 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:42:45 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5036.4ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:43:00.596016"], ["updated_at", "2016-08-04 13:43:00.596016"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:43:00 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.4ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:43:00 +0200
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:44:08.549959"], ["updated_at", "2016-08-04 13:44:08.549959"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:44:08 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.4ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:44:08 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5038.3ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.9ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:45:35.839212"], ["updated_at", "2016-08-04 13:45:35.839212"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:45:35 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 3ms (Views: 0.8ms | ActiveRecord: 0.6ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:45:35 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+Completed 500 Internal Server Error in 224036ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5043.0ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:49:37.285378"], ["updated_at", "2016-08-04 13:49:37.285378"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:49:37 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.4ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:49:37 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5043.2ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:50:08.857241"], ["updated_at", "2016-08-04 13:50:08.857241"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:50:08 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:50:08 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5036.0ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:50:26.979085"], ["updated_at", "2016-08-04 13:50:26.979085"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:50:26 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:50:27 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.9ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5038.1ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:51:25.028532"], ["updated_at", "2016-08-04 13:51:25.028532"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:51:25 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.4ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:51:25 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+Completed 500 Internal Server Error in 11722ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5041.8ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:58:56.410033"], ["updated_at", "2016-08-04 13:58:56.410033"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:58:56 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:58:56 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "{\"givenName\"=>\"Vasiliy\", \"family_name\"=>\"Ermolovich\", \"given_name\"=>nil}"], ["created_at", "2016-08-04 13:59:00.504361"], ["updated_at", "2016-08-04 13:59:00.504361"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 200 OK in 4061ms (Views: 0.4ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.4ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5039.9ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:59:28.765842"], ["updated_at", "2016-08-04 13:59:28.765842"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:59:28 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 3ms (Views: 0.6ms | ActiveRecord: 0.7ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:59:28 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "{\"givenName\"=>\"Vasiliy\", \"family_name\"=>\"Ermolovich\", \"given_name\"=>nil}"], ["created_at", "2016-08-04 13:59:31.229060"], ["updated_at", "2016-08-04 13:59:31.229060"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 2415ms (Views: 0.5ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.4ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-04 13:59:51.582549"], ["updated_at", "2016-08-04 13:59:51.582549"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-04 15:59:51 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-04 15:59:51 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "{\"givenName\"=>\"Vasiliy\", \"family_name\"=>\"Ermolovich\", \"given_name\"=>nil}"], ["created_at", "2016-08-04 13:59:51.615997"], ["updated_at", "2016-08-04 13:59:51.615997"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 3ms (Views: 0.3ms | ActiveRecord: 0.7ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  [1m[35m (12.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5046.6ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 07:35:15.663906"], ["updated_at", "2016-08-05 07:35:15.663906"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 09:35:15 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 09:35:15 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["created_at", "2016-08-05 07:35:15.697928"], ["updated_at", "2016-08-05 07:35:15.697928"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 3ms (Views: 0.3ms | ActiveRecord: 0.6ms)
+  [1m[36mUser Load (0.8ms)[0m  [1mSELECT  "users".* FROM "users"  ORDER BY "users"."id" DESC LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5031.6ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.3ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 07:36:27.591406"], ["updated_at", "2016-08-05 07:36:27.591406"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 09:36:27 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 09:36:27 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["created_at", "2016-08-05 07:36:27.626040"], ["updated_at", "2016-08-05 07:36:27.626040"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 3ms (Views: 0.3ms | ActiveRecord: 0.6ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.1ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 07:37:27.844163"], ["updated_at", "2016-08-05 07:37:27.844163"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 09:37:27 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 09:37:27 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["created_at", "2016-08-05 07:37:27.882858"], ["updated_at", "2016-08-05 07:37:27.882858"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 2ms (Views: 0.3ms | ActiveRecord: 0.5ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."employee_number" = $1 LIMIT 1[0m  [["employee_number", "12345"]]
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5041.1ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.5ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 07:38:59.205374"], ["updated_at", "2016-08-05 07:38:59.205374"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 09:38:59 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.6ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 3ms (Views: 0.5ms | ActiveRecord: 0.6ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 09:38:59 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "externalId"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["created_at", "2016-08-05 07:38:59.257721"], ["updated_at", "2016-08-05 07:38:59.257721"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 3ms (Views: 0.4ms | ActiveRecord: 0.7ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."employee_number" = $1 LIMIT 1[0m  [["employee_number", "12345"]]
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5029.9ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.4ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 07:39:49.865809"], ["updated_at", "2016-08-05 07:39:49.865809"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 09:39:49 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 3ms (Views: 0.8ms | ActiveRecord: 0.8ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 09:39:49 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "externalId"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.3ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("phone_number", "email", "first_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["created_at", "2016-08-05 07:41:56.933623"], ["updated_at", "2016-08-05 07:41:56.933623"]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 127033ms (Views: 0.4ms | ActiveRecord: 0.7ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."employee_number" = $1 LIMIT 1[0m  [["employee_number", "12345"]]
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5040.4ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 07:42:07.786385"], ["updated_at", "2016-08-05 07:42:07.786385"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 09:42:07 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 09:42:07 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "externalId"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.3ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("employee_number", "phone_number", "email", "first_name", "last_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["employee_number", "12345"], ["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["last_name", "Ermolovich"], ["created_at", "2016-08-05 07:54:10.166832"], ["updated_at", "2016-08-05 07:54:10.166832"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 722330ms (Views: 0.5ms | ActiveRecord: 0.7ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."employee_number" = $1 LIMIT 1[0m  [["employee_number", "12345"]]
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5043.0ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 08:02:51.316029"], ["updated_at", "2016-08-05 08:02:51.316029"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 10:02:51 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 10:02:51 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "externalId"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("employee_number", "phone_number", "email", "first_name", "last_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["employee_number", "12345"], ["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["last_name", "Ermolovich"], ["created_at", "2016-08-05 08:02:51.362304"], ["updated_at", "2016-08-05 08:02:51.362304"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 3ms (Views: 0.3ms | ActiveRecord: 0.6ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."employee_number" = $1 LIMIT 1[0m  [["employee_number", "12345"]]
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36m (5047.7ms)[0m  [1mDROP DATABASE IF EXISTS "dummy_test"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.6ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "users" ("first_name", "last_name", "email", "phone_number", "employee_number", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["first_name", "felipe"], ["last_name", "espinoza"], ["email", "foo@bar.com"], ["phone_number", "12345678"], ["employee_number", "123"], ["created_at", "2016-08-05 08:05:09.009156"], ["updated_at", "2016-08-05 08:05:09.009156"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Started GET "/scim/Users" for 127.0.0.1 at 2016-08-05 10:05:09 +0200
+Processing by SCIM::UsersController#index as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1mSELECT "users".* FROM "users"[0m
+Completed 200 OK in 3ms (Views: 0.7ms | ActiveRecord: 0.8ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+Started POST "/scim/Users" for 127.0.0.1 at 2016-08-05 10:05:09 +0200
+Processing by SCIM::UsersController#create as HTML
+  Parameters: {"parameters"=>{"schemas"=>["urn:scim:schemas:core:1.0", "urn:scim:schemas:extension:enterprise:1.0"], "emails"=>["test@example.com"], "phoneNumbers"=>["+375292613722"], "employeeNumber"=>"12345", "externalId"=>"12345", "name"=>{"familyName"=>"Ermolovich", "givenName"=>"Vasiliy"}}}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "users" ("employee_number", "phone_number", "email", "first_name", "last_name", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7) RETURNING "id"[0m  [["employee_number", "12345"], ["phone_number", "+375292613722"], ["email", "test@example.com"], ["first_name", "Vasiliy"], ["last_name", "Ermolovich"], ["created_at", "2016-08-05 08:05:09.080984"], ["updated_at", "2016-08-05 08:05:09.080984"]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 201 Created in 3ms (Views: 0.4ms | ActiveRecord: 0.6ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users" WHERE "users"."employee_number" = $1 LIMIT 1[0m  [["employee_number", "12345"]]
+  [1m[35m (0.2ms)[0m  ROLLBACK
