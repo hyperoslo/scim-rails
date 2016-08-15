@@ -1,0 +1,21 @@
+AllCops:
+  TargetRubyVersion: 2.3
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+  Exclude:
+    - 'db/migrate/*'
+    - 'db/schema.rb'
+    - 'bin/*'
+    - 'scripts/*'
+    - 'vendor/bundle/**/*'
+    - !ruby/regexp /old_and_unused\.rb$/
+Rails/Date:
+  Exclude:
+    - 'lib/**/*'
+Style/Documentation:
+  Enabled: false
+Style/IndentArray:
+  EnforcedStyle: consistent
+Rails/OutputSafety:
+  Enabled: false
